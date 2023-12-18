@@ -1,0 +1,16 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/images/check.svg": "/images/check.svg",
+    "/images/favicon.ico": "/images/favicon.ico",
+    "/images/loading.svg": "/images/loading.svg",
+    "/images/logo-dark.png": "/images/logo-dark.png",
+    "/images/logo-light.png": "/images/logo-light.png",
+    "/images/logo-sm.png": "/images/logo-sm.png",
+    "/images/users/user-1.jpg": "/images/users/user-1.jpg",
+    "/images/users/user-10.jpg": "/images/users/user-10.jpg",
+    "/images/users/user-2.jpg": "/images/users/user-2.jpg",
+    "/images/users/user-3.jpg": "/images/users/user-3.jpg",
+    "/images/users/user-4.jpg": "/images/users/user-4.jpg",
+    "/images/users/user-5.jpg": "/images/users/user-5.jpg"
+}
